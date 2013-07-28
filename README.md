@@ -3,7 +3,7 @@ fizzbuzz
 
 FizzBuzz code kata - http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz
 
-I didi this on my own, didn't time it but it was about 20-30 minutes.
+I did this on my own, didn't time it but it was about 20-30 minutes. I have not done stage 2.
 
 From the web page:
 
